@@ -1,0 +1,5 @@
+{
+    "watch": ["./express/**/*", "./graphql/**/*"], 
+    "exec": "node ./express/server.js",
+    "ext": "js"
+}

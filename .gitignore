@@ -1,0 +1,7 @@
+.env
+postgres/**/*.js
+graphql/**/*.js
+express/**/*.js
+types/**/*.js
+node_modules/
+.next/

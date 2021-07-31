@@ -1,0 +1,2 @@
+CREATE DATABASE movie_list_development;
+CREATE DATABASE movie_list_production;

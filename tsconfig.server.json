@@ -1,0 +1,12 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": ".",
+        "noEmit": false,
+        "suppressImplicitAnyIndexErrors": true,
+    },
+    "include": [
+        "./express/server.ts"
+    ]
+}
